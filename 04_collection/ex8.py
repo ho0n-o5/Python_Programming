@@ -71,5 +71,5 @@ print(python_class - c_class)
 
 
 # 3️⃣ 둘 중 하나라도 듣는 학생 출력하기
-print(python_class | c_class)
+print(python_class + c_class)
 # ✅ {'최지훈', '김철수', '이영희', '박민수'}
